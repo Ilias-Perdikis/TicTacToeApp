@@ -15,7 +15,7 @@ A simple **Tic Tac Toe** game written in Java using **Swing** for graphical user
 - Computer makes a move with a short delay
 
 ## 🛠️ How to Run
-1. Compile all .java files
+1. Compile all `.java` files
 2. Run the app
 
 
