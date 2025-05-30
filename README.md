@@ -9,7 +9,7 @@ A simple **Tic Tac Toe** game written in Java using **Swing** for graphical user
 ## 🎯 Features
 - Graphical 3x3 grid using buttons
 - Random choice of which player starts
-- X always plays in blue, O in red
+- X always plays in red, O in green
 - Win and draw detection
 - Win counter (X wins | O wins)
 - Computer makes a move with a short delay
